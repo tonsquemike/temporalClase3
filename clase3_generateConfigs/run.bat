@@ -1,0 +1,1 @@
+java -jar /home/mike/NetBeansProjects/clase3_generateConfigs/dist/clase3_generateConfigs.jar -CONFIG /home/mike/NetBeansProjects/clase3_generateConfigs/config.txt
