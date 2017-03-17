@@ -1,0 +1,1 @@
+java -jar /home/mike/NetBeansProjects/clase3_Paraleliza/dist/clase3_Paraleliza.jar -CONFIG /home/mike/NetBeansProjects/clase3_Paraleliza/config.txt
